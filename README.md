@@ -11,6 +11,6 @@ the networking services of a Proxmox distribution.
 Rather than testing the networking configuration on remote servers, a
 [specific Docker image preparation project](https://github.com/network-conf-helpers/docker-images)
 produces ready-to-use
-[Docker images on Docker Cloud](https://cloud.docker.com/u/netconfhelpers/repository/docker/netconfhelpers/base)
+[images on Docker Cloud](https://cloud.docker.com/u/netconfhelpers/repository/docker/netconfhelpers/base)
 
 
