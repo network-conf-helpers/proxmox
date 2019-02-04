@@ -1,0 +1,6 @@
+[Match]
+Name=eno2
+
+[Network]
+Bond=bond0
+

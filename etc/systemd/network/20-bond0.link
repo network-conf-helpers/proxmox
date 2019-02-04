@@ -1,0 +1,5 @@
+[Match]
+OriginalName=bond0
+
+[Link]
+MTUBytes=9000
