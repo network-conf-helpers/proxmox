@@ -1,0 +1,6 @@
+[Match]
+OriginalName=eno1
+
+[Link]
+MTUBytes=9000
+

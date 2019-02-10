@@ -1,0 +1,6 @@
+[Match]
+Name=bond0.30
+
+[Network]
+Address=10.30.2.1/24
+

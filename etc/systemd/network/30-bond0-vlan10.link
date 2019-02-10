@@ -1,0 +1,6 @@
+[Match]
+OriginalName=bond0.10
+
+[Link]
+MTUBytes=1500
+

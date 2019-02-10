@@ -1,0 +1,8 @@
+[Match]
+Name=bond0
+
+[Network]
+BindCarrier=eno1 eno2
+VLAN=bond0.10
+VLAN=bond0.20
+
